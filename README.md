@@ -28,8 +28,7 @@ I hope to continue discovering the world in all its disciplines and finding the 
 ## :mega: Social
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/david-caminoperdones/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](david.camino.perdones@gmail.com
-)
+[![E-Mail](https://img.shields.io/badge/email-david.camino.perdones@gmail.com-2a8?style=flat-square&logo=gmail&logoColor=white&color=blue)](mailto:david.camino.perdones@gmail.com)
 
 ## :wrench: Technologies & Tools
 
