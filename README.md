@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://github.com/cadovid/cadovid/blob/main/david-camino-banner.png">
+  <img width="1200" src="https://github.com/cadovid/cadovid/blob/main/banner-davidcamino.png">
 </p>
 
 ## :v: Personal Info
