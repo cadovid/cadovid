@@ -27,38 +27,37 @@ I hope to continue discovering the world in all its disciplines and finding the 
 
 ## :mega: Social
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/david-caminoperdones/)
-[![E-Mail](https://img.shields.io/badge/email-david.camino.perdones@gmail.com-2a8?style=flat-square&logo=gmail&logoColor=white&color=blue)](mailto:david.camino.perdones@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=0e387a)](https://www.linkedin.com/in/david-caminoperdones/)
+[![E-Mail](https://img.shields.io/badge/email-david.camino.perdones@gmail.com-2a8?style=flat-square&logo=gmail&logoColor=white&color=0e387a)](mailto:david.camino.perdones@gmail.com)
 
 ## :wrench: Technologies & Tools
 
-![](https://img.shields.io/badge/Language-Python-blue)
-![](https://img.shields.io/badge/Language-Shell_Scripting-blue)
-![](https://img.shields.io/badge/Language-SQL-blue)
-![](https://img.shields.io/badge/VCS-Git-blue)
-![](https://img.shields.io/badge/Tools-Docker-blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-blue)
-![](https://img.shields.io/badge/Design_Pattern-RESTful_API-blue)
-![](https://img.shields.io/badge/Design_Pattern-TDD-blue)
-![](https://img.shields.io/badge/CI\/CD-Jenkins-blue)
-![](https://img.shields.io/badge/CI\/CD-MLFlow-blue)
-![](https://img.shields.io/badge/CI\/CD-Airflow-blue)
-![](https://img.shields.io/badge/Automation-Ansible-blue)
-![](https://img.shields.io/badge/Monitoring-Grafana-blue)
-![](https://img.shields.io/badge/Monitoring-Prometheus-blue)
-![](https://img.shields.io/badge/Cloud-AWS-blue)
-![](https://img.shields.io/badge/Framework-Tensorflow-blue)
-![](https://img.shields.io/badge/Framework-Pytorch-blue)
+![](https://img.shields.io/badge/Language-Python-0e387a)
+![](https://img.shields.io/badge/Language-Shell_Scripting-0e387a)
+![](https://img.shields.io/badge/Language-SQL-0e387a)
+![](https://img.shields.io/badge/VCS-Git-0e387a)
+![](https://img.shields.io/badge/Tools-Docker-0e387a)
+![](https://img.shields.io/badge/Tools-Kubernetes-0e387a)
+![](https://img.shields.io/badge/Design_Pattern-RESTful_API-0e387a)
+![](https://img.shields.io/badge/Design_Pattern-TDD-0e387a)
+![](https://img.shields.io/badge/CI\/CD-Jenkins-0e387a)
+![](https://img.shields.io/badge/CI\/CD-MLFlow-0e387a)
+![](https://img.shields.io/badge/CI\/CD-Airflow-0e387a)
+![](https://img.shields.io/badge/Automation-Ansible-0e387a)
+![](https://img.shields.io/badge/Monitoring-Grafana-0e387a)
+![](https://img.shields.io/badge/Monitoring-Prometheus-0e387a)
+![](https://img.shields.io/badge/Cloud-AWS-0e387a)
+![](https://img.shields.io/badge/Framework-Tensorflow-0e387a)
+![](https://img.shields.io/badge/Framework-Pytorch-0e387a)
 
 ## :ballot_box_with_check: Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cadovid&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cadovid&show_icons=true&count_private=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cadovid&repo=nlp4rare&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cadovid&repo=nlp4rare&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cadovid&repo=ai-driven-avatar&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cadovid&repo=ai-driven-avatar&theme=nord" />
 </a>
-
